@@ -16,3 +16,4 @@
 button {
   @apply px-3 py-1 border bg-gradient-to-r from-[var(--primary-dark)] to-[var(--primary-light)] text-white font-semibold rounded
 }
+

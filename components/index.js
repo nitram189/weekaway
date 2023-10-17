@@ -4,6 +4,7 @@ import Contact from "./Contact"
 import Footer from "./Footer"
 import Gallery from "./Gallery"
 import Hero from "./Hero"
+import ImageModal from "./ImageModal"
 import Navbar from "./Navbar"
 import TopNavbar from "./TopNavbar"
 
@@ -16,5 +17,6 @@ export {
     Activities,
     Booking,
     Gallery,
-    Contact
+    Contact,
+    ImageModal
 }
